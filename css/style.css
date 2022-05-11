@@ -1,0 +1,35 @@
+header h1{
+  background-color: aqua;
+  font-size: 32px;
+  font-family:'Times New Roman', Times, serif;
+}
+
+h2{
+  margin-top: 25px;
+  font-size: 30px;
+  font-display: bold;
+  text-decoration-line:underline;
+  font-style:italic;
+}
+
+ul li p{
+  margin-top: 25px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
+h3{
+  margin-top: 25px;
+  font-size: 30px;
+  font-display: bold;
+  text-decoration-line:underline;
+  font-style:italic;
+}
+
+h4{
+  margin-top: 25px;
+  font-size: 30px;
+  font-display: bold;
+  text-decoration-line:underline;
+  font-style:italic;
+}
