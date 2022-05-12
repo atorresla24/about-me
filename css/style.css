@@ -18,6 +18,12 @@ ul li p{
   font-size: 18px;
 }
 
+ul li{
+  margin-top: 25px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
 h3{
   margin-top: 25px;
   font-size: 30px;
