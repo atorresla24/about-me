@@ -33,3 +33,17 @@ h4{
   text-decoration-line:underline;
   font-style:italic;
 }
+
+h5{
+  margin-top: 25px;
+  font-size: 30px;
+  font-display: bold;
+  text-decoration-line:underline;
+  font-style:italic; 
+}
+
+ol li{
+  margin-top: 25px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 18px;
+}
